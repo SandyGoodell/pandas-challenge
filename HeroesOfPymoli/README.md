@@ -17,7 +17,14 @@ The gender for male players is significantly higher than female (84%, 14% respec
 
 ### Purchase Analysis Gender
 
-The purchase analysis by genders shows that the female player's average purchase is higher than the male counterpart by 40 cents and the non-disclosed is higher than female by 10 cents 
+The purchase analysis by genders shows that the female player's average purchase is higher than the male counterpart by 40 cents and the non-disclosed is higher than female by 10 cents.   
+
+![Venn Diagram](./Resources/Gender_Purchases.jpg)
+
+### Most Popular Items and Most Profitable Items
+
+The most popular item was also the most profitable. It was the Final Critic a total of 13 sold for a value of $59.99
+CODE:
 
 ```python
 mpi_df = pd.DataFrame({"Purchase Count" :mpi_purch_count,
@@ -29,3 +36,4 @@ mpi_df['Total Purchase Value'] = mpi_df['Total Purchase Value'].map("${:.2f}".fo
 mpi_df.head()
 
 ```
+![Venn Diagram](./Resources/MPI.jpg)
