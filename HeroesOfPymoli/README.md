@@ -7,7 +7,7 @@ The game is free-to-play, but players are encouraged to purchase optional items 
 
 Listed below is the Data Frame of the data
 
-![Venn Diagram](./Resources/DataFram1.jpg)  
+![Venn Diagram](./Resources/DataFrame1.jpg)  
 
 ### Gender Demographics
 
