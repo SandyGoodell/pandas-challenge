@@ -15,6 +15,12 @@ The gender for male players is significantly higher than female (84%, 14% respec
 
 ![Venn Diagram](./Resources/Gender_Demo.jpg)
 
+### Age Demographics
+
+The largest age demographics shows that 258 or 44.8% of the players are 20-24 years old, followed by 107 or 18.6% are 15-19 years old.  
+
+![Venn Diagram](./Resources/CountsbyAge.jpg)
+
 ### Purchase Analysis Gender
 
 The purchase analysis by genders shows that the female player's average purchase is higher than the male counterpart by 40 cents and the non-disclosed is higher than female by 10 cents.   
